@@ -1,0 +1,36 @@
+# Site settings
+title: Allen Byerly
+subtitle: My Homepage
+email: me@allenbyerly.com
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.allenbyerly.com" # the base hostname & protocol for your site
+author: Allen Byerly
+street_address: #1234 Somewhere Road
+city: #Nashville
+state: #TN
+zip_code: 94110
+country: United States of America
+phone: #(415) 988-5555
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url: https://facbook.com/allenbsf
+github_url:
+gitlab_url: https://gitlab.com/allenbyerly
+googleplus_url: https://plus.google.com/u/0/+AllenByerly
+instagram_url: https://instagram.com/allenbsf
+linkedin_url: https://www.linkedin.com/in/allenbyerly
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/allenbyerly
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
